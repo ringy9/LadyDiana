@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "fa7244179a1141b4",
+            "max_int": "47c2a29a28005e14",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Vlad A4",
+            "photo": "https://i.postimg.cc/TPCxMrXK/62fd1839c4e6d26984dc52bb72720a90.jpg",
+            "voice": "https://ringy9.github.io/LadyDiana/MP3.mp4",
+            "video": "https://ringy9.github.io/LadyDiana/video1.mp4",
+            "stories": [
+                "https://i.postimg.cc/28m0vgWf/img1.jpg",
+                "https://i.postimg.cc/dtB49nRZ/img2.jpg",
+                "https://i.postimg.cc/fRR5qX52/img3.jpg",
+                "https://i.postimg.cc/vZ2hJBNQ/img4.jpg",
+                "https://i.postimg.cc/nLs2pJyq/img5.jpg"
+               
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/28m0vgWf/img1.jpg",
+                "https://i.postimg.cc/dtB49nRZ/img2.jpg",
+                "https://i.postimg.cc/fRR5qX52/img3.jpg",
+                "https://i.postimg.cc/vZ2hJBNQ/img4.jpg",
+				"https://i.postimg.cc/TPCxMrXK/62fd1839c4e6d26984dc52bb72720a90.jpg",
+                "https://i.postimg.cc/nLs2pJyq/img5.jpg"
+            ]
+          
+        }
+    ]
+}
